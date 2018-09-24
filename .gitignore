@@ -1,1 +1,5 @@
 mason_packages/
+EXTRACTS/
+.ipynb_checkpoints/
+history-latest.osm.pbf
+

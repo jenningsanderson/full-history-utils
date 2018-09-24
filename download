@@ -1,2 +1,2 @@
 echo "Downloading the latest full history planet file"
-
+mv history-latest.osm.pbf history-penultimate.osh.pbf

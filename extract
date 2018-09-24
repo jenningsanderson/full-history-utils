@@ -1,5 +1,38 @@
 #! /usr/bin/python3
-import os
-print("Extract Utility: Using OSMIUM: ")
+import os,sys
+print("Extract Utility: Using osmium-tool ");
 
-os.system("mason_packages/.link/bin/osmium --version");
+HISTORY_FILE="history-latest.osm.pbf"
+DEFAULT_BBOXES = "./bboxes"
+
+os.system("mason_packages/.link/bin/osmium --version | head -n 1");
+print("");
+
+def get_bbox(path):
+    print("Found: ",path)
+    with open(path,'r') as file:
+        return file.read().strip()
+        
+def extract_bbox(path,name,found=False):
+    if (found):
+        bbox = get_bbox(path+"/"+name)
+        command = "mason_packages/.link/bin/osmium extract --with-history --overwrite --bbox={0} --verbose -o EXTRACTS/{1}.osh.pbf {2}".format(bbox,name,HISTORY_FILE)
+        print("Running command: ",command)
+        os.system(command)
+        
+    else:
+        for p in os.listdir(path):
+            if os.path.isdir(path+"/"+p):
+                extract_bbox(path+"/"+p, name)
+            elif p==name:
+                return extract_bbox(path,name,found=True)
+
+if len(sys.argv) == 2:
+    extract_bbox(DEFAULT_BBOXES, sys.argv[1])
+elif len(sys.argv)==3:
+    HISTORY_FILE = sys.argv[2]
+    extract_bbox(DEFAULT_BBOXES, sys.argv[1])
+else:
+    print("Usage:")
+    print("\t extract <CITY> [HISTORY FILE]")
+                 
