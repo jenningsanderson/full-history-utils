@@ -7,8 +7,6 @@ This is a collection of bounding boxes and configuration settings for working wi
 Available commands: 
 
 	download	Download the latest history file to this directory.
-	extract-cities	Extract all of the cities located in the bboxes directory out of the history file.
-	extract-countries	Extract all of the cities in the bboxes directory
-	extract <name>	Extract the bbox file located in the bboxes directory.
+	extract <name>	Extract any of the bbox files located in the bboxes directory.
 
 Also available here are various osmium-extract configuration files for a variety of analysis needs.
