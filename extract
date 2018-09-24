@@ -1,0 +1,5 @@
+#! /usr/bin/python3
+import os
+print("Extract Utility: Using OSMIUM: ")
+
+os.system("mason_packages/.link/bin/osmium --version");
