@@ -2,7 +2,7 @@
 import os,sys
 print("Extract Utility: Using osmium-tool ");
 
-HISTORY_FILE="history-latest.osm.pbf"
+HISTORY_FILE="/data/OSM-Historical-Data/history-latest.osm.pbf"
 DEFAULT_BBOXES = "./bboxes"
 
 os.system("mason_packages/.link/bin/osmium --version | head -n 1");
