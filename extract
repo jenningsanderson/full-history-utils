@@ -17,7 +17,7 @@ def get_bbox(path):
 def extract_bbox(path,name,found=False):
     if (found):
         bbox = get_bbox(path+"/"+name)
-        command = "mason_packages/.link/bin/osmium extract --with-history --overwrite --bbox={0} --verbose -o {3}/{1}.osh.pbf {2}".format(bbox,name,HISTORY_FILE,EXRACTS)
+        command = "mason_packages/.link/bin/osmium extract --set-bounds --with-history --overwrite --bbox={0} --verbose -o {3}/{1}.osh.pbf {2}".format(bbox,name,HISTORY_FILE,EXRACTS)
         print("Running command: ",command)
         os.system(command)
         
