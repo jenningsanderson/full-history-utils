@@ -1,4 +1,4 @@
 echo "Downloading the latest full history planet file"
-cd /data/OSM-Historical-Data/
+#cd /data/OSM-Historical-Data/
 mv history-latest.osm.pbf history-penultimate.osh.pbf
 wget https://planet.openstreetmap.org/pbf/full-history/history-latest.osm.pbf
