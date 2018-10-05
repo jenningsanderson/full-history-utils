@@ -1,0 +1,444 @@
+{
+  "extracts": [
+    {
+      "output": "albany_new-york.osh.pbf",
+      "description": "Albany",
+      "bbox": [
+        -73.898,
+        42.614,
+        -73.725,
+        42.722
+      ]
+    },
+    {
+      "output": "atlanta_georgia.osh.pbf",
+      "description": "Atlanta",
+      "bbox": [
+        -85.386,
+        32.844,
+        -83.269,
+        34.618
+      ]
+    },
+    {
+      "output": "austin_texas.osh.pbf",
+      "description": "Austin",
+      "bbox": [
+        -98.212,
+        29.931,
+        -97.234,
+        30.67
+      ]
+    },
+    {
+      "output": "boston_massachusetts.osh.pbf",
+      "description": "Boston",
+      "bbox": [
+        -71.191,
+        42.228,
+        -70.923,
+        42.42
+      ]
+    },
+    {
+      "output": "brooklyn_new-york.osh.pbf",
+      "description": "Brooklyn",
+      "bbox": [
+        -74.057,
+        40.551,
+        -73.833,
+        40.739
+      ]
+    },
+    {
+      "output": "calgary_canada.osh.pbf",
+      "description": "Calgary",
+      "bbox": [
+        -114.612,
+        50.71,
+        -113.478,
+        51.353
+      ]
+    },
+    {
+      "output": "chicago_illinois.osh.pbf",
+      "description": "Chicago",
+      "bbox": [
+        -88.505,
+        41.339,
+        -87.066,
+        42.297
+      ]
+    },
+    {
+      "output": "cleveland_ohio.osh.pbf",
+      "description": "Cleveland",
+      "bbox": [
+        -82.485,
+        40.73,
+        -80.798,
+        41.918
+      ]
+    },
+    {
+      "output": "dallas_texas.osh.pbf",
+      "description": "Dallas",
+      "bbox": [
+        -97.789,
+        32.166,
+        -96.113,
+        33.431
+      ]
+    },
+    {
+      "output": "dc-baltimore_maryland.osh.pbf",
+      "description": "DC/Baltimore",
+      "bbox": [
+        -77.599,
+        38.539,
+        -76.058,
+        39.631
+      ]
+    },
+    {
+      "output": "denver-boulder_colorado.osh.pbf",
+      "description": "Denver/Boulder",
+      "bbox": [
+        -105.746,
+        39.323,
+        -104.334,
+        40.313
+      ]
+    },
+    {
+      "output": "detroit_michigan.osh.pbf",
+      "description": "Detroit",
+      "bbox": [
+        -84.158,
+        41.723,
+        -82.375,
+        43.168
+      ]
+    },
+    {
+      "output": "edmonton_canada.osh.pbf",
+      "description": "Edmonton",
+      "bbox": [
+        -114.529,
+        52.941,
+        -112.43,
+        54.213
+      ]
+    },
+    {
+      "output": "hampton-roads_virginia.osh.pbf",
+      "description": "Hampton Roads",
+      "bbox": [
+        -76.663,
+        36.718,
+        -75.918,
+        37.208
+      ]
+    },
+    {
+      "output": "honolulu_hawaii.osh.pbf",
+      "description": "Honolulu",
+      "bbox": [
+        -158.35,
+        21.192,
+        -157.592,
+        21.781
+      ]
+    },
+    {
+      "output": "houston_texas.osh.pbf",
+      "description": "Houston",
+      "bbox": [
+        -96.064,
+        28.856,
+        -94.378,
+        30.261
+      ]
+    },
+    {
+      "output": "kansas-city-lawrence-topeka_kansas.osh.pbf",
+      "description": "Kansas City/Lawrence/Topeka",
+      "bbox": [
+        -95.946,
+        38.599,
+        -94.048,
+        39.419
+      ]
+    },
+    {
+      "output": "la-habana_cuba.osh.pbf",
+      "description": "La Habana",
+      "bbox": [
+        -82.462,
+        23.032,
+        -82.278,
+        23.184
+      ]
+    },
+    {
+      "output": "las-vegas_nevada.osh.pbf",
+      "description": "Las Vegas",
+      "bbox": [
+        -115.581,
+        35.757,
+        -114.211,
+        36.615
+      ]
+    },
+    {
+      "output": "los-angeles_california.osh.pbf",
+      "description": "Los Angeles",
+      "bbox": [
+        -119.437,
+        33.298,
+        -116.724,
+        34.583
+      ]
+    },
+    {
+      "output": "mexico-city_mexico.osh.pbf",
+      "description": "Mexico City",
+      "bbox": [
+        -99.597,
+        18.992,
+        -98.606,
+        19.921
+      ]
+    },
+    {
+      "output": "miami_florida.osh.pbf",
+      "description": "Miami",
+      "bbox": [
+        -80.683,
+        25.291,
+        -79.774,
+        26.912
+      ]
+    },
+    {
+      "output": "minneapolis-saint-paul_minnesota.osh.pbf",
+      "description": "Minneapolis/Saint Paul",
+      "bbox": [
+        -94.013,
+        44.471,
+        -92.543,
+        45.415
+      ]
+    },
+    {
+      "output": "montreal_canada.osh.pbf",
+      "description": "Montreal",
+      "bbox": [
+        -74.734,
+        44.968,
+        -72.723,
+        46.057
+      ]
+    },
+    {
+      "output": "nashville_tennessee.osh.pbf",
+      "description": "Nashville",
+      "bbox": [
+        -87.743,
+        35.408,
+        -85.778,
+        36.652
+      ]
+    },
+    {
+      "output": "new-orleans_louisiana.osh.pbf",
+      "description": "New Orleans",
+      "bbox": [
+        -90.653,
+        28.887,
+        -89.11,
+        30.51
+      ]
+    },
+    {
+      "output": "new-york_new-york.osh.pbf",
+      "description": "New York",
+      "bbox": [
+        -74.501,
+        40.345,
+        -73.226,
+        41.097
+      ]
+    },
+    {
+      "output": "ottawa_canada.osh.pbf",
+      "description": "Ottawa",
+      "bbox": [
+        -76.361,
+        44.927,
+        -75.052,
+        45.598
+      ]
+    },
+    {
+      "output": "philadelphia_pennsylvania.osh.pbf",
+      "description": "Philadelphia",
+      "bbox": [
+        -75.572,
+        39.641,
+        -74.641,
+        40.308
+      ]
+    },
+    {
+      "output": "phoenix_arizona.osh.pbf",
+      "description": "Phoenix",
+      "bbox": [
+        -112.821,
+        32.796,
+        -111.211,
+        34.07
+      ]
+    },
+    {
+      "output": "pittsburgh_pennsylvania.osh.pbf",
+      "description": "Pittsburgh",
+      "bbox": [
+        -80.711,
+        40.023,
+        -79.249,
+        40.88
+      ]
+    },
+    {
+      "output": "port-au-prince_haiti.osh.pbf",
+      "description": "Port au Prince",
+      "bbox": [
+        -72.518,
+        18.456,
+        -72.112,
+        18.683
+      ]
+    },
+    {
+      "output": "portland_oregon.osh.pbf",
+      "description": "Portland",
+      "bbox": [
+        -123.521,
+        45.096,
+        -122.11,
+        45.897
+      ]
+    },
+    {
+      "output": "raleigh_north-carolina.osh.pbf",
+      "description": "Raleigh",
+      "bbox": [
+        -79.26446190712878,
+        35.51924621969106,
+        -78.254921645725,
+        36.243823619688065
+      ]
+    },
+    {
+      "output": "saint-louis_missouri.osh.pbf",
+      "description": "Saint Louis",
+      "bbox": [
+        -91.01,
+        38.069,
+        -89.533,
+        39.151
+      ]
+    },
+    {
+      "output": "san-antonio_texas.osh.pbf",
+      "description": "San Antonio",
+      "bbox": [
+        -98.951,
+        29.109,
+        -97.88,
+        29.951
+      ]
+    },
+    {
+      "output": "san-diego-tijuana_mexico.osh.pbf",
+      "description": "San Diego/Tijuana",
+      "bbox": [
+        -117.376,
+        32.312,
+        -116.588,
+        33.078
+      ]
+    },
+    {
+      "output": "san-diego_california.osh.pbf",
+      "description": "San Diego",
+      "bbox": [
+        -117.288,
+        32.558,
+        -116.918,
+        32.91
+      ]
+    },
+    {
+      "output": "san-francisco-bay_california.osh.pbf",
+      "description": "San Francisco Bay",
+      "bbox": [
+        -123.64,
+        36.791,
+        -121.025,
+        38.719
+      ]
+    },
+    {
+      "output": "san-francisco_california.osh.pbf",
+      "description": "San Francisco",
+      "bbox": [
+        -122.737,
+        37.449,
+        -122.011,
+        37.955
+      ]
+    },
+    {
+      "output": "san-jose_california.osh.pbf",
+      "description": "San Jose",
+      "bbox": [
+        -122.046,
+        37.125,
+        -121.589,
+        37.469
+      ]
+    },
+    {
+      "output": "seattle_washington.osh.pbf",
+      "description": "Seattle",
+      "bbox": [
+        -123.931,
+        46.608,
+        -121.335,
+        48.528
+      ]
+    },
+    {
+      "output": "tampa_florida.osh.pbf",
+      "description": "Tampa",
+      "bbox": [
+        -82.935,
+        27.279,
+        -82.012,
+        28.376
+      ]
+    },
+    {
+      "output": "louisville_kentucky.osh.pbf",
+      "description": "Louisville",
+      "bbox": [
+        -86.01,
+        38.06,
+        -85.41,
+        38.38
+      ]
+    }
+  ]
+}

@@ -1,5 +1,5 @@
 // copy cities.json (GeoJSON) from https://github.com/interline-io/osm-extracts/blob/master/cities.json
-const cities = require("./cities.json");
+const cities = require("../us-cities.json");
 
 const extracts = cities.features.map(city => {
   const {
