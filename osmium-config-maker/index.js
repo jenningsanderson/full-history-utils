@@ -6,11 +6,13 @@ const extracts = cities.features.map(city => {
     geometry: { coordinates: polygon },
     properties: { id, name }
   } = city;
+       
+  var bbox = [polygon[0][0][0],polygon[0][0][1],polygon[0][2][0],polygon[0][2][1]]
 
   return {
     output: `${id}.osh.pbf`,
     description: name,
-    polygon
+    bbox: bbox
   };
 });
 
@@ -18,4 +20,4 @@ const config = {
   extracts
 };
 
-process.stdout.write(JSON.stringify(config));
+process.stdout.write(JSON.stringify(config,null,2));

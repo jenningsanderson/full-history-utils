@@ -1,0 +1,2014 @@
+{
+  "extracts": [
+    {
+      "output": "abidjan_ivory-coast.osh.pbf",
+      "description": "Abidjan",
+      "bbox": [
+        -4.183,
+        5.22,
+        -3.849,
+        5.523
+      ]
+    },
+    {
+      "output": "abuja_nigeria.osh.pbf",
+      "description": "Abuja",
+      "bbox": [
+        7.248,
+        8.835,
+        7.717,
+        9.246
+      ]
+    },
+    {
+      "output": "accra_ghana.osh.pbf",
+      "description": "Accra",
+      "bbox": [
+        -0.437,
+        5.475,
+        -0.071,
+        5.675
+      ]
+    },
+    {
+      "output": "addis-abeba_ethiopia.osh.pbf",
+      "description": "Addis-Abeba",
+      "bbox": [
+        38.651,
+        8.919,
+        38.92,
+        9.077
+      ]
+    },
+    {
+      "output": "alexandria_egypt.osh.pbf",
+      "description": "Alexandria",
+      "bbox": [
+        29.689,
+        31.024,
+        30.295,
+        31.432
+      ]
+    },
+    {
+      "output": "algiers_algeria_expanded.osh.pbf",
+      "description": "Algiers",
+      "bbox": [
+        2.828,
+        36.567,
+        3.392,
+        36.847
+      ]
+    },
+    {
+      "output": "cairo_egypt.osh.pbf",
+      "description": "Cairo",
+      "bbox": [
+        30.897,
+        29.761,
+        31.71,
+        30.564
+      ]
+    },
+    {
+      "output": "cape-town_south-africa.osh.pbf",
+      "description": "Cape Town",
+      "bbox": [
+        18.302,
+        -34.363,
+        19.004,
+        -33.471
+      ]
+    },
+    {
+      "output": "casablanca_morocco.osh.pbf",
+      "description": "Casablanca",
+      "bbox": [
+        -7.737,
+        33.487,
+        -7.456,
+        33.652
+      ]
+    },
+    {
+      "output": "dar-es-salaam_tanzania.osh.pbf",
+      "description": "Dar es Salaam",
+      "bbox": [
+        38.894,
+        -7.12,
+        39.661,
+        -6.502
+      ]
+    },
+    {
+      "output": "johannesburg_south-africa.osh.pbf",
+      "description": "Johannesburg",
+      "bbox": [
+        27.537,
+        -26.563,
+        28.542,
+        -25.834
+      ]
+    },
+    {
+      "output": "lagos_nigeria.osh.pbf",
+      "description": "Lagos",
+      "bbox": [
+        2.889,
+        6.32,
+        3.834,
+        6.91
+      ]
+    },
+    {
+      "output": "luanda_angola.osh.pbf",
+      "description": "Luanda",
+      "bbox": [
+        13.086,
+        -9.089,
+        13.5,
+        -8.729
+      ]
+    },
+    {
+      "output": "nairobi_kenya.osh.pbf",
+      "description": "Nairobi",
+      "bbox": [
+        36.582,
+        -1.488,
+        37.056,
+        -0.965
+      ]
+    },
+    {
+      "output": "tunis_tunisia.osh.pbf",
+      "description": "Tunis",
+      "bbox": [
+        9.978,
+        36.659,
+        10.493,
+        37.008
+      ]
+    },
+    {
+      "output": "agra_india.osh.pbf",
+      "description": "Agra",
+      "bbox": [
+        77.886,
+        27.106,
+        78.151,
+        27.259
+      ]
+    },
+    {
+      "output": "ahmedabad_india.osh.pbf",
+      "description": "Ahmedabad",
+      "bbox": [
+        72.364,
+        22.855,
+        72.787,
+        23.201
+      ]
+    },
+    {
+      "output": "almaty_kazakhstan.osh.pbf",
+      "description": "Almaty",
+      "bbox": [
+        76.575,
+        43.057,
+        77.223,
+        43.549
+      ]
+    },
+    {
+      "output": "ankara_turkey.osh.pbf",
+      "description": "Ankara",
+      "bbox": [
+        32.105,
+        39.439,
+        33.509,
+        40.372
+      ]
+    },
+    {
+      "output": "astana_kazakhstan.osh.pbf",
+      "description": "Astana",
+      "bbox": [
+        71.212,
+        51.003,
+        71.74,
+        51.29
+      ]
+    },
+    {
+      "output": "bangkok_thailand.osh.pbf",
+      "description": "Bangkok",
+      "bbox": [
+        99.569,
+        12.661,
+        101.337,
+        15.019
+      ]
+    },
+    {
+      "output": "beijing_china.osh.pbf",
+      "description": "Beijing",
+      "bbox": [
+        115.686,
+        39.414,
+        117.119,
+        40.426
+      ]
+    },
+    {
+      "output": "bengaluru_india.osh.pbf",
+      "description": "Bengaluru",
+      "bbox": [
+        77.35,
+        12.75,
+        77.85,
+        13.23
+      ]
+    },
+    {
+      "output": "chengdu_china.osh.pbf",
+      "description": "Chengdu",
+      "bbox": [
+        103.564,
+        30.363,
+        104.555,
+        30.987
+      ]
+    },
+    {
+      "output": "chennai_india.osh.pbf",
+      "description": "Chennai",
+      "bbox": [
+        79.9,
+        12.7,
+        80.4,
+        13.3
+      ]
+    },
+    {
+      "output": "chongqing_china.osh.pbf",
+      "description": "Chongqing",
+      "bbox": [
+        105.283,
+        28.167,
+        110.183,
+        32.217
+      ]
+    },
+    {
+      "output": "dhaka_bangladesh.osh.pbf",
+      "description": "Dhaka",
+      "bbox": [
+        89.998,
+        23.435,
+        90.838,
+        24.006
+      ]
+    },
+    {
+      "output": "guangzhou_china.osh.pbf",
+      "description": "Guangzhou",
+      "bbox": [
+        112.181,
+        22.533,
+        114.972,
+        23.981
+      ]
+    },
+    {
+      "output": "hangzhou_china.osh.pbf",
+      "description": "Hangzhou",
+      "bbox": [
+        120.1,
+        30.23,
+        120.185,
+        30.296
+      ]
+    },
+    {
+      "output": "hanoi_vietnam.osh.pbf",
+      "description": "Hanoi",
+      "bbox": [
+        105.742,
+        20.945,
+        105.911,
+        21.098
+      ]
+    },
+    {
+      "output": "ho-chi-minh-city_vietnam.osh.pbf",
+      "description": "Ho Chi Minh City",
+      "bbox": [
+        106.458,
+        10.611,
+        106.949,
+        11.021
+      ]
+    },
+    {
+      "output": "hong-kong_china.osh.pbf",
+      "description": "Hong Kong",
+      "bbox": [
+        112.78,
+        21.591,
+        115.125,
+        23.488
+      ]
+    },
+    {
+      "output": "hyderabad_india.osh.pbf",
+      "description": "Hyderabad",
+      "bbox": [
+        78.216,
+        17.191,
+        78.727,
+        17.63
+      ]
+    },
+    {
+      "output": "karachi_pakistan.osh.pbf",
+      "description": "Karachi",
+      "bbox": [
+        66.401,
+        23.958,
+        68.576,
+        25.593
+      ]
+    },
+    {
+      "output": "kolkata_india.osh.pbf",
+      "description": "Kolkata",
+      "bbox": [
+        87.751,
+        22.117,
+        89.119,
+        23.106
+      ]
+    },
+    {
+      "output": "kuala-lumpur_malaysia.osh.pbf",
+      "description": "Kuala Lumpur",
+      "bbox": [
+        101.425,
+        2.776,
+        101.994,
+        3.407
+      ]
+    },
+    {
+      "output": "manila_philippines.osh.pbf",
+      "description": "Manila",
+      "bbox": [
+        120.885,
+        14.327,
+        121.2,
+        14.9
+      ]
+    },
+    {
+      "output": "moscow_russia.osh.pbf",
+      "description": "Moscow",
+      "bbox": [
+        36.8,
+        55.123,
+        38.43,
+        56.2
+      ]
+    },
+    {
+      "output": "mumbai_india.osh.pbf",
+      "description": "Mumbai",
+      "bbox": [
+        72.415,
+        18.466,
+        73.516,
+        19.5
+      ]
+    },
+    {
+      "output": "new-delhi_india.osh.pbf",
+      "description": "New Delhi",
+      "bbox": [
+        76.692,
+        28.183,
+        77.733,
+        28.969
+      ]
+    },
+    {
+      "output": "nizhniy-novgorod_russia.osh.pbf",
+      "description": "Nizhniy Novgorod",
+      "bbox": [
+        43.718,
+        56.193,
+        44.135,
+        56.4
+      ]
+    },
+    {
+      "output": "perm_russia.osh.pbf",
+      "description": "Perm",
+      "bbox": [
+        55.795,
+        57.865,
+        56.675,
+        58.182
+      ]
+    },
+    {
+      "output": "pune_india.osh.pbf",
+      "description": "Pune",
+      "bbox": [
+        73.603,
+        18.337,
+        74.072,
+        18.771
+      ]
+    },
+    {
+      "output": "rangoon_myanmar.osh.pbf",
+      "description": "Rangoon",
+      "bbox": [
+        95.257,
+        16.233,
+        97.337,
+        17.729
+      ]
+    },
+    {
+      "output": "saint-petersburg_russia.osh.pbf",
+      "description": "Saint Petersburg",
+      "bbox": [
+        29.168,
+        59.556,
+        31.173,
+        60.345
+      ]
+    },
+    {
+      "output": "samara-tolyatti_russia.osh.pbf",
+      "description": "Samara Tolyatti",
+      "bbox": [
+        48.5,
+        52.4,
+        51.918,
+        54.037
+      ]
+    },
+    {
+      "output": "seoul_south-korea.osh.pbf",
+      "description": "Seoul",
+      "bbox": [
+        126.064,
+        37.019,
+        127.525,
+        37.98
+      ]
+    },
+    {
+      "output": "shanghai_china.osh.pbf",
+      "description": "Shanghai",
+      "bbox": [
+        118.887,
+        29.477,
+        123.787,
+        32.472
+      ]
+    },
+    {
+      "output": "shenzhen_china.osh.pbf",
+      "description": "Shenzhen",
+      "bbox": [
+        113.755,
+        22.422,
+        114.681,
+        22.808
+      ]
+    },
+    {
+      "output": "singapore.osh.pbf",
+      "description": "Singapore",
+      "bbox": [
+        103.062,
+        0.807,
+        104.545,
+        1.823
+      ]
+    },
+    {
+      "output": "taipei_taiwan.osh.pbf",
+      "description": "Taipei",
+      "bbox": [
+        121.346,
+        24.926,
+        121.676,
+        25.209
+      ]
+    },
+    {
+      "output": "tianjin_china.osh.pbf",
+      "description": "Tianjin",
+      "bbox": [
+        116.528,
+        38.378,
+        118.531,
+        39.779
+      ]
+    },
+    {
+      "output": "tokyo_japan.osh.pbf",
+      "description": "Tokyo",
+      "bbox": [
+        138.779,
+        34.867,
+        141.152,
+        36.558
+      ]
+    },
+    {
+      "output": "ulaanbaatar_mongolia.osh.pbf",
+      "description": "Ulaanbaatar",
+      "bbox": [
+        106.344,
+        47.696,
+        107.43,
+        48.285
+      ]
+    },
+    {
+      "output": "wuhan_china.osh.pbf",
+      "description": "Wuhan",
+      "bbox": [
+        113.745,
+        30.079,
+        114.798,
+        30.903
+      ]
+    },
+    {
+      "output": "bratislava_slovakia.osh.pbf",
+      "description": "Bratislava",
+      "bbox": [
+        16.955,
+        48.061,
+        17.494,
+        48.295
+      ]
+    },
+    {
+      "output": "bucharest_romania.osh.pbf",
+      "description": "Bucharest",
+      "bbox": [
+        25.542,
+        44.141,
+        26.756,
+        44.729
+      ]
+    },
+    {
+      "output": "budapest_hungary.osh.pbf",
+      "description": "Budapest",
+      "bbox": [
+        18.347,
+        47.025,
+        19.78,
+        47.861
+      ]
+    },
+    {
+      "output": "cluj_romania.osh.pbf",
+      "description": "Cluj",
+      "bbox": [
+        23.454,
+        46.68,
+        23.755,
+        46.83
+      ]
+    },
+    {
+      "output": "gdansk_poland.osh.pbf",
+      "description": "Gdansk",
+      "bbox": [
+        18.174,
+        54.007,
+        19.113,
+        54.87
+      ]
+    },
+    {
+      "output": "istanbul_turkey.osh.pbf",
+      "description": "Istanbul",
+      "bbox": [
+        28.313,
+        40.738,
+        29.678,
+        41.421
+      ]
+    },
+    {
+      "output": "kharkiv_ukraine.osh.pbf",
+      "description": "Kharkiv",
+      "bbox": [
+        36.106,
+        49.878,
+        36.455,
+        50.105
+      ]
+    },
+    {
+      "output": "krakow_poland.osh.pbf",
+      "description": "Krakow",
+      "bbox": [
+        19.594,
+        49.85,
+        20.275,
+        50.24
+      ]
+    },
+    {
+      "output": "kyiv_ukraine.osh.pbf",
+      "description": "Kyiv",
+      "bbox": [
+        30.078,
+        50.086,
+        30.97,
+        50.74
+      ]
+    },
+    {
+      "output": "lviv_ukraine.osh.pbf",
+      "description": "Lviv",
+      "bbox": [
+        23.587,
+        49.573,
+        24.433,
+        50.148
+      ]
+    },
+    {
+      "output": "minsk_belarus.osh.pbf",
+      "description": "Minsk",
+      "bbox": [
+        27.375,
+        53.796,
+        28.064,
+        53.972
+      ]
+    },
+    {
+      "output": "poznan_poland.osh.pbf",
+      "description": "Poznan",
+      "bbox": [
+        16.732,
+        52.292,
+        17.072,
+        52.509
+      ]
+    },
+    {
+      "output": "prague_czech-republic.osh.pbf",
+      "description": "Prague",
+      "bbox": [
+        13.842,
+        49.763,
+        15.012,
+        50.408
+      ]
+    },
+    {
+      "output": "riga_latvia.osh.pbf",
+      "description": "Riga",
+      "bbox": [
+        23.469,
+        56.579,
+        24.789,
+        57.3
+      ]
+    },
+    {
+      "output": "sofia_bulgaria.osh.pbf",
+      "description": "Sofia",
+      "bbox": [
+        22.87,
+        42.38,
+        23.83,
+        43.04
+      ]
+    },
+    {
+      "output": "vienna_austria.osh.pbf",
+      "description": "Vienna",
+      "bbox": [
+        16.137,
+        48.048,
+        16.714,
+        48.386
+      ]
+    },
+    {
+      "output": "warsaw_poland.osh.pbf",
+      "description": "Warsaw",
+      "bbox": [
+        20.341,
+        51.845,
+        21.692,
+        52.623
+      ]
+    },
+    {
+      "output": "wroclaw_poland.osh.pbf",
+      "description": "Wroclaw",
+      "bbox": [
+        16.652,
+        50.877,
+        17.363,
+        51.311
+      ]
+    },
+    {
+      "output": "zagreb_croatia.osh.pbf",
+      "description": "Zagreb",
+      "bbox": [
+        15.81,
+        45.74,
+        16.151,
+        45.848
+      ]
+    },
+    {
+      "output": "adana_turkey.osh.pbf",
+      "description": "Adana",
+      "bbox": [
+        35.21,
+        36.95,
+        35.46,
+        37.07
+      ]
+    },
+    {
+      "output": "amman_jordan.osh.pbf",
+      "description": "Amman",
+      "bbox": [
+        35.715,
+        31.668,
+        36.25,
+        32.171
+      ]
+    },
+    {
+      "output": "baghdad_iraq.osh.pbf",
+      "description": "Baghdad",
+      "bbox": [
+        43.786,
+        32.967,
+        44.862,
+        33.715
+      ]
+    },
+    {
+      "output": "doha_qatar.osh.pbf",
+      "description": "Doha",
+      "bbox": [
+        51.24,
+        24.951,
+        51.801,
+        25.637
+      ]
+    },
+    {
+      "output": "dubai_abu-dhabi.osh.pbf",
+      "description": "Dubai",
+      "bbox": [
+        53.58,
+        23.735,
+        56.887,
+        26.539
+      ]
+    },
+    {
+      "output": "izmir_turkey.osh.pbf",
+      "description": "Izmir",
+      "bbox": [
+        26.855,
+        38.29,
+        27.304,
+        38.545
+      ]
+    },
+    {
+      "output": "jeddah_saudi-arabia.osh.pbf",
+      "description": "Jeddah",
+      "bbox": [
+        39.029,
+        21.005,
+        39.393,
+        21.905
+      ]
+    },
+    {
+      "output": "jerusalem_israel.osh.pbf",
+      "description": "Jerusalem",
+      "bbox": [
+        35.072,
+        31.712,
+        35.341,
+        31.866
+      ]
+    },
+    {
+      "output": "riyadh_saudi-arabia.osh.pbf",
+      "description": "Riyadh",
+      "bbox": [
+        46.227,
+        24.292,
+        47.202,
+        25.098
+      ]
+    },
+    {
+      "output": "tehran_iran.osh.pbf",
+      "description": "Tehran",
+      "bbox": [
+        50.87,
+        35.383,
+        51.648,
+        35.917
+      ]
+    },
+    {
+      "output": "tel-aviv_israel.osh.pbf",
+      "description": "Tel Aviv",
+      "bbox": [
+        34.642,
+        31.929,
+        35.052,
+        32.246
+      ]
+    },
+    {
+      "output": "albany_new-york.osh.pbf",
+      "description": "Albany",
+      "bbox": [
+        -73.898,
+        42.614,
+        -73.725,
+        42.722
+      ]
+    },
+    {
+      "output": "atlanta_georgia.osh.pbf",
+      "description": "Atlanta",
+      "bbox": [
+        -85.386,
+        32.844,
+        -83.269,
+        34.618
+      ]
+    },
+    {
+      "output": "austin_texas.osh.pbf",
+      "description": "Austin",
+      "bbox": [
+        -98.212,
+        29.931,
+        -97.234,
+        30.67
+      ]
+    },
+    {
+      "output": "boston_massachusetts.osh.pbf",
+      "description": "Boston",
+      "bbox": [
+        -71.191,
+        42.228,
+        -70.923,
+        42.42
+      ]
+    },
+    {
+      "output": "brooklyn_new-york.osh.pbf",
+      "description": "Brooklyn",
+      "bbox": [
+        -74.057,
+        40.551,
+        -73.833,
+        40.739
+      ]
+    },
+    {
+      "output": "calgary_canada.osh.pbf",
+      "description": "Calgary",
+      "bbox": [
+        -114.612,
+        50.71,
+        -113.478,
+        51.353
+      ]
+    },
+    {
+      "output": "chicago_illinois.osh.pbf",
+      "description": "Chicago",
+      "bbox": [
+        -88.505,
+        41.339,
+        -87.066,
+        42.297
+      ]
+    },
+    {
+      "output": "cleveland_ohio.osh.pbf",
+      "description": "Cleveland",
+      "bbox": [
+        -82.485,
+        40.73,
+        -80.798,
+        41.918
+      ]
+    },
+    {
+      "output": "dallas_texas.osh.pbf",
+      "description": "Dallas",
+      "bbox": [
+        -97.789,
+        32.166,
+        -96.113,
+        33.431
+      ]
+    },
+    {
+      "output": "dc-baltimore_maryland.osh.pbf",
+      "description": "DC/Baltimore",
+      "bbox": [
+        -77.599,
+        38.539,
+        -76.058,
+        39.631
+      ]
+    },
+    {
+      "output": "denver-boulder_colorado.osh.pbf",
+      "description": "Denver/Boulder",
+      "bbox": [
+        -105.746,
+        39.323,
+        -104.334,
+        40.313
+      ]
+    },
+    {
+      "output": "detroit_michigan.osh.pbf",
+      "description": "Detroit",
+      "bbox": [
+        -84.158,
+        41.723,
+        -82.375,
+        43.168
+      ]
+    },
+    {
+      "output": "edmonton_canada.osh.pbf",
+      "description": "Edmonton",
+      "bbox": [
+        -114.529,
+        52.941,
+        -112.43,
+        54.213
+      ]
+    },
+    {
+      "output": "hampton-roads_virginia.osh.pbf",
+      "description": "Hampton Roads",
+      "bbox": [
+        -76.663,
+        36.718,
+        -75.918,
+        37.208
+      ]
+    },
+    {
+      "output": "honolulu_hawaii.osh.pbf",
+      "description": "Honolulu",
+      "bbox": [
+        -158.35,
+        21.192,
+        -157.592,
+        21.781
+      ]
+    },
+    {
+      "output": "houston_texas.osh.pbf",
+      "description": "Houston",
+      "bbox": [
+        -96.064,
+        28.856,
+        -94.378,
+        30.261
+      ]
+    },
+    {
+      "output": "kansas-city-lawrence-topeka_kansas.osh.pbf",
+      "description": "Kansas City/Lawrence/Topeka",
+      "bbox": [
+        -95.946,
+        38.599,
+        -94.048,
+        39.419
+      ]
+    },
+    {
+      "output": "la-habana_cuba.osh.pbf",
+      "description": "La Habana",
+      "bbox": [
+        -82.462,
+        23.032,
+        -82.278,
+        23.184
+      ]
+    },
+    {
+      "output": "las-vegas_nevada.osh.pbf",
+      "description": "Las Vegas",
+      "bbox": [
+        -115.581,
+        35.757,
+        -114.211,
+        36.615
+      ]
+    },
+    {
+      "output": "los-angeles_california.osh.pbf",
+      "description": "Los Angeles",
+      "bbox": [
+        -119.437,
+        33.298,
+        -116.724,
+        34.583
+      ]
+    },
+    {
+      "output": "mexico-city_mexico.osh.pbf",
+      "description": "Mexico City",
+      "bbox": [
+        -99.597,
+        18.992,
+        -98.606,
+        19.921
+      ]
+    },
+    {
+      "output": "miami_florida.osh.pbf",
+      "description": "Miami",
+      "bbox": [
+        -80.683,
+        25.291,
+        -79.774,
+        26.912
+      ]
+    },
+    {
+      "output": "minneapolis-saint-paul_minnesota.osh.pbf",
+      "description": "Minneapolis/Saint Paul",
+      "bbox": [
+        -94.013,
+        44.471,
+        -92.543,
+        45.415
+      ]
+    },
+    {
+      "output": "montreal_canada.osh.pbf",
+      "description": "Montreal",
+      "bbox": [
+        -74.734,
+        44.968,
+        -72.723,
+        46.057
+      ]
+    },
+    {
+      "output": "nashville_tennessee.osh.pbf",
+      "description": "Nashville",
+      "bbox": [
+        -87.743,
+        35.408,
+        -85.778,
+        36.652
+      ]
+    },
+    {
+      "output": "new-orleans_louisiana.osh.pbf",
+      "description": "New Orleans",
+      "bbox": [
+        -90.653,
+        28.887,
+        -89.11,
+        30.51
+      ]
+    },
+    {
+      "output": "new-york_new-york.osh.pbf",
+      "description": "New York",
+      "bbox": [
+        -74.501,
+        40.345,
+        -73.226,
+        41.097
+      ]
+    },
+    {
+      "output": "ottawa_canada.osh.pbf",
+      "description": "Ottawa",
+      "bbox": [
+        -76.361,
+        44.927,
+        -75.052,
+        45.598
+      ]
+    },
+    {
+      "output": "philadelphia_pennsylvania.osh.pbf",
+      "description": "Philadelphia",
+      "bbox": [
+        -75.572,
+        39.641,
+        -74.641,
+        40.308
+      ]
+    },
+    {
+      "output": "phoenix_arizona.osh.pbf",
+      "description": "Phoenix",
+      "bbox": [
+        -112.821,
+        32.796,
+        -111.211,
+        34.07
+      ]
+    },
+    {
+      "output": "pittsburgh_pennsylvania.osh.pbf",
+      "description": "Pittsburgh",
+      "bbox": [
+        -80.711,
+        40.023,
+        -79.249,
+        40.88
+      ]
+    },
+    {
+      "output": "port-au-prince_haiti.osh.pbf",
+      "description": "Port au Prince",
+      "bbox": [
+        -72.518,
+        18.456,
+        -72.112,
+        18.683
+      ]
+    },
+    {
+      "output": "portland_oregon.osh.pbf",
+      "description": "Portland",
+      "bbox": [
+        -123.521,
+        45.096,
+        -122.11,
+        45.897
+      ]
+    },
+    {
+      "output": "raleigh_north-carolina.osh.pbf",
+      "description": "Raleigh",
+      "bbox": [
+        -79.26446190712878,
+        35.51924621969106,
+        -78.254921645725,
+        36.243823619688065
+      ]
+    },
+    {
+      "output": "saint-louis_missouri.osh.pbf",
+      "description": "Saint Louis",
+      "bbox": [
+        -91.01,
+        38.069,
+        -89.533,
+        39.151
+      ]
+    },
+    {
+      "output": "san-antonio_texas.osh.pbf",
+      "description": "San Antonio",
+      "bbox": [
+        -98.951,
+        29.109,
+        -97.88,
+        29.951
+      ]
+    },
+    {
+      "output": "san-diego-tijuana_mexico.osh.pbf",
+      "description": "San Diego/Tijuana",
+      "bbox": [
+        -117.376,
+        32.312,
+        -116.588,
+        33.078
+      ]
+    },
+    {
+      "output": "san-diego_california.osh.pbf",
+      "description": "San Diego",
+      "bbox": [
+        -117.288,
+        32.558,
+        -116.918,
+        32.91
+      ]
+    },
+    {
+      "output": "san-francisco-bay_california.osh.pbf",
+      "description": "San Francisco Bay",
+      "bbox": [
+        -123.64,
+        36.791,
+        -121.025,
+        38.719
+      ]
+    },
+    {
+      "output": "san-francisco_california.osh.pbf",
+      "description": "San Francisco",
+      "bbox": [
+        -122.737,
+        37.449,
+        -122.011,
+        37.955
+      ]
+    },
+    {
+      "output": "san-jose_california.osh.pbf",
+      "description": "San Jose",
+      "bbox": [
+        -122.046,
+        37.125,
+        -121.589,
+        37.469
+      ]
+    },
+    {
+      "output": "seattle_washington.osh.pbf",
+      "description": "Seattle",
+      "bbox": [
+        -123.931,
+        46.608,
+        -121.335,
+        48.528
+      ]
+    },
+    {
+      "output": "tampa_florida.osh.pbf",
+      "description": "Tampa",
+      "bbox": [
+        -82.935,
+        27.279,
+        -82.012,
+        28.376
+      ]
+    },
+    {
+      "output": "toronto_canada.osh.pbf",
+      "description": "Toronto",
+      "bbox": [
+        -80.161,
+        43.201,
+        -78.717,
+        44.182
+      ]
+    },
+    {
+      "output": "vancouver_canada.osh.pbf",
+      "description": "Vancouver",
+      "bbox": [
+        -123.29,
+        49.195,
+        -123.02,
+        49.32
+      ]
+    },
+    {
+      "output": "victoria_canada.osh.pbf",
+      "description": "Victoria",
+      "bbox": [
+        -124.063,
+        48.054,
+        -122.568,
+        48.871
+      ]
+    },
+    {
+      "output": "aarhus_denmark.osh.pbf",
+      "description": "Aarhus",
+      "bbox": [
+        10.068,
+        56.08,
+        10.356,
+        56.252
+      ]
+    },
+    {
+      "output": "gothenburg_sweden.osh.pbf",
+      "description": "Gothenburg",
+      "bbox": [
+        11.552,
+        57.532,
+        12.31,
+        57.803
+      ]
+    },
+    {
+      "output": "helsinki_finland.osh.pbf",
+      "description": "Helsinki",
+      "bbox": [
+        24.34,
+        60.052,
+        25.381,
+        60.68
+      ]
+    },
+    {
+      "output": "oslo_norway.osh.pbf",
+      "description": "Oslo",
+      "bbox": [
+        9.691,
+        58.938,
+        11.493,
+        60.424
+      ]
+    },
+    {
+      "output": "reykjavik_iceland.osh.pbf",
+      "description": "Reykjavik",
+      "bbox": [
+        -22.826,
+        63.771,
+        -21.14,
+        64.297
+      ]
+    },
+    {
+      "output": "stockholm_sweden.osh.pbf",
+      "description": "Stockholm",
+      "bbox": [
+        16.858,
+        58.718,
+        19.526,
+        60.249
+      ]
+    },
+    {
+      "output": "adelaide_australia.osh.pbf",
+      "description": "Adelaide",
+      "bbox": [
+        138.417,
+        -35.261,
+        138.854,
+        -34.57
+      ]
+    },
+    {
+      "output": "auckland_new-zealand.osh.pbf",
+      "description": "Auckland",
+      "bbox": [
+        174.223,
+        -37.348,
+        175.314,
+        -36.41
+      ]
+    },
+    {
+      "output": "bali_indonesia.osh.pbf",
+      "description": "Bali",
+      "bbox": [
+        113.055,
+        -9.517,
+        117.188,
+        -6.995
+      ]
+    },
+    {
+      "output": "bandung_indonesia.osh.pbf",
+      "description": "Bandung",
+      "bbox": [
+        107.474,
+        -7.007,
+        107.745,
+        -6.773
+      ]
+    },
+    {
+      "output": "brisbane_australia.osh.pbf",
+      "description": "Brisbane",
+      "bbox": [
+        152.7,
+        -27.723,
+        153.349,
+        -27
+      ]
+    },
+    {
+      "output": "jakarta_indonesia.osh.pbf",
+      "description": "Jakarta",
+      "bbox": [
+        106.435,
+        -6.615,
+        107.16,
+        -5.881
+      ]
+    },
+    {
+      "output": "melbourne_australia.osh.pbf",
+      "description": "Melbourne",
+      "bbox": [
+        144.266,
+        -38.552,
+        145.81,
+        -37.365
+      ]
+    },
+    {
+      "output": "perth_australia.osh.pbf",
+      "description": "Perth",
+      "bbox": [
+        115.439,
+        -32.499,
+        116.208,
+        -31.705
+      ]
+    },
+    {
+      "output": "sydney_australia.osh.pbf",
+      "description": "Sydney",
+      "bbox": [
+        150.628,
+        -34.189,
+        151.647,
+        -33.637
+      ]
+    },
+    {
+      "output": "bogota_colombia.osh.pbf",
+      "description": "Bogota",
+      "bbox": [
+        -74.421,
+        4.291,
+        -73.767,
+        5.022
+      ]
+    },
+    {
+      "output": "brasilia_brazil.osh.pbf",
+      "description": "Brasilia",
+      "bbox": [
+        -48.501,
+        -16.317,
+        -47.378,
+        -15.36
+      ]
+    },
+    {
+      "output": "buenos-aires_argentina.osh.pbf",
+      "description": "Buenos Aires",
+      "bbox": [
+        -59.258,
+        -35.139,
+        -57.833,
+        -34.219
+      ]
+    },
+    {
+      "output": "caracas_venezuela.osh.pbf",
+      "description": "Caracas",
+      "bbox": [
+        -67.11,
+        10.27,
+        -66.663,
+        10.645
+      ]
+    },
+    {
+      "output": "lima_peru.osh.pbf",
+      "description": "Lima",
+      "bbox": [
+        -77.294,
+        -12.358,
+        -76.701,
+        -11.644
+      ]
+    },
+    {
+      "output": "medellin_colombia.osh.pbf",
+      "description": "Medellin",
+      "bbox": [
+        -75.887,
+        6.01,
+        -75.277,
+        6.497
+      ]
+    },
+    {
+      "output": "rio-de-janeiro_brazil.osh.pbf",
+      "description": "Rio de Janeiro",
+      "bbox": [
+        -43.86,
+        -23.216,
+        -42.751,
+        -22.378
+      ]
+    },
+    {
+      "output": "santiago_chile.osh.pbf",
+      "description": "Santiago",
+      "bbox": [
+        -71.043,
+        -33.824,
+        -70.353,
+        -33.151
+      ]
+    },
+    {
+      "output": "sao-paulo_brazil.osh.pbf",
+      "description": "Sao Paulo",
+      "bbox": [
+        -47.357,
+        -24.317,
+        -45.863,
+        -23.125
+      ]
+    },
+    {
+      "output": "acoruna_spain.osh.pbf",
+      "description": "Acoruna",
+      "bbox": [
+        -8.6,
+        43.2,
+        -8,
+        43.6
+      ]
+    },
+    {
+      "output": "athens_greece.osh.pbf",
+      "description": "Athens",
+      "bbox": [
+        22.949,
+        37.514,
+        24.421,
+        38.365
+      ]
+    },
+    {
+      "output": "barcelona_spain.osh.pbf",
+      "description": "Barcelona",
+      "bbox": [
+        1.898,
+        41.246,
+        2.312,
+        41.533
+      ]
+    },
+    {
+      "output": "bologna_italy.osh.pbf",
+      "description": "Bologna",
+      "bbox": [
+        10.998,
+        44.337,
+        11.817,
+        44.668
+      ]
+    },
+    {
+      "output": "florence_italy.osh.pbf",
+      "description": "Florence",
+      "bbox": [
+        10.982,
+        43.601,
+        11.504,
+        43.983
+      ]
+    },
+    {
+      "output": "genoa_italy.osh.pbf",
+      "description": "Genoa",
+      "bbox": [
+        8.444,
+        44.291,
+        9.114,
+        44.561
+      ]
+    },
+    {
+      "output": "lisbon_portugal.osh.pbf",
+      "description": "Lisbon",
+      "bbox": [
+        -9.634,
+        38.358,
+        -8.458,
+        39.15
+      ]
+    },
+    {
+      "output": "madrid_spain.osh.pbf",
+      "description": "Madrid",
+      "bbox": [
+        -4.293,
+        39.8,
+        -3.057,
+        41.03
+      ]
+    },
+    {
+      "output": "milan_italy.osh.pbf",
+      "description": "Milan",
+      "bbox": [
+        8.86,
+        45.246,
+        9.47,
+        45.694
+      ]
+    },
+    {
+      "output": "naples_italy.osh.pbf",
+      "description": "Naples",
+      "bbox": [
+        14.139,
+        40.792,
+        14.354,
+        40.916
+      ]
+    },
+    {
+      "output": "porto_portugal.osh.pbf",
+      "description": "Porto",
+      "bbox": [
+        -8.795,
+        40.981,
+        -8.358,
+        41.399
+      ]
+    },
+    {
+      "output": "rome_italy.osh.pbf",
+      "description": "Rome",
+      "bbox": [
+        12.109,
+        41.578,
+        12.845,
+        42.13
+      ]
+    },
+    {
+      "output": "thessaloniki_greece.osh.pbf",
+      "description": "Thessaloniki",
+      "bbox": [
+        22.902,
+        40.587,
+        22.991,
+        40.656
+      ]
+    },
+    {
+      "output": "valencia_spain.osh.pbf",
+      "description": "Valencia",
+      "bbox": [
+        -0.436,
+        39.42,
+        -0.285,
+        39.504
+      ]
+    },
+    {
+      "output": "venice_italy.osh.pbf",
+      "description": "Venice",
+      "bbox": [
+        11.629,
+        45.123,
+        12.735,
+        45.811
+      ]
+    },
+    {
+      "output": "amsterdam_netherlands.osh.pbf",
+      "description": "Amsterdam",
+      "bbox": [
+        4.465,
+        52.163,
+        5.347,
+        52.629
+      ]
+    },
+    {
+      "output": "antwerp_belgium.osh.pbf",
+      "description": "Antwerp",
+      "bbox": [
+        4.192,
+        51.124,
+        4.52,
+        51.385
+      ]
+    },
+    {
+      "output": "belfast_ireland.osh.pbf",
+      "description": "Belfast",
+      "bbox": [
+        -6.046,
+        54.532,
+        -5.816,
+        54.663
+      ]
+    },
+    {
+      "output": "berlin_germany.osh.pbf",
+      "description": "Berlin",
+      "bbox": [
+        12.26,
+        51.849,
+        14.699,
+        52.994
+      ]
+    },
+    {
+      "output": "bern_switzerland.osh.pbf",
+      "description": "Bern",
+      "bbox": [
+        7.33,
+        46.885,
+        7.561,
+        47.023
+      ]
+    },
+    {
+      "output": "birmingham_england.osh.pbf",
+      "description": "Birmingham",
+      "bbox": [
+        -2.536,
+        52.214,
+        -1.267,
+        52.794
+      ]
+    },
+    {
+      "output": "bordeaux_france.osh.pbf",
+      "description": "Bordeaux",
+      "bbox": [
+        -0.9,
+        44.569,
+        -0.162,
+        45.065
+      ]
+    },
+    {
+      "output": "brussels_belgium.osh.pbf",
+      "description": "Brussels",
+      "bbox": [
+        3.981,
+        50.645,
+        4.761,
+        51.053
+      ]
+    },
+    {
+      "output": "cardiff-newport-bristol-bath_england.osh.pbf",
+      "description": "Cardiff/Newport/Bristol/Bath",
+      "bbox": [
+        -3.618,
+        51.236,
+        -2.189,
+        51.73
+      ]
+    },
+    {
+      "output": "cologne_germany.osh.pbf",
+      "description": "Cologne",
+      "bbox": [
+        6.844,
+        50.876,
+        7.105,
+        51.009
+      ]
+    },
+    {
+      "output": "copenhagen_denmark.osh.pbf",
+      "description": "Copenhagen",
+      "bbox": [
+        11.894,
+        55.491,
+        13.147,
+        55.95
+      ]
+    },
+    {
+      "output": "dresden_germany.osh.pbf",
+      "description": "Dresden",
+      "bbox": [
+        13.586,
+        50.978,
+        13.972,
+        51.18
+      ]
+    },
+    {
+      "output": "dublin_ireland.osh.pbf",
+      "description": "Dublin",
+      "bbox": [
+        -6.569,
+        53.178,
+        -6.023,
+        53.512
+      ]
+    },
+    {
+      "output": "duesseldorf_germany.osh.pbf",
+      "description": "Duesseldorf",
+      "bbox": [
+        6.622,
+        51.116,
+        7.009,
+        51.361
+      ]
+    },
+    {
+      "output": "edinburgh_scotland.osh.pbf",
+      "description": "Edinburgh",
+      "bbox": [
+        -3.585,
+        55.783,
+        -2.835,
+        56.132
+      ]
+    },
+    {
+      "output": "frankfurt_germany.osh.pbf",
+      "description": "Frankfurt",
+      "bbox": [
+        8.471,
+        50.014,
+        8.8,
+        50.227
+      ]
+    },
+    {
+      "output": "glasgow_scotland.osh.pbf",
+      "description": "Glasgow",
+      "bbox": [
+        -4.613,
+        55.668,
+        -3.935,
+        56.034
+      ]
+    },
+    {
+      "output": "hamburg_germany.osh.pbf",
+      "description": "Hamburg",
+      "bbox": [
+        9.376,
+        53.159,
+        10.678,
+        53.833
+      ]
+    },
+    {
+      "output": "liverpool_england.osh.pbf",
+      "description": "Liverpool",
+      "bbox": [
+        -3.201,
+        53.283,
+        -2.74,
+        53.514
+      ]
+    },
+    {
+      "output": "london_england.osh.pbf",
+      "description": "London",
+      "bbox": [
+        -1.115,
+        50.941,
+        0.895,
+        51.984
+      ]
+    },
+    {
+      "output": "lyon_france.osh.pbf",
+      "description": "Lyon",
+      "bbox": [
+        3.85,
+        44.176,
+        7.185,
+        46.451
+      ]
+    },
+    {
+      "output": "manchester_england.osh.pbf",
+      "description": "Manchester",
+      "bbox": [
+        -2.588,
+        53.237,
+        -1.877,
+        53.672
+      ]
+    },
+    {
+      "output": "marseille_france.osh.pbf",
+      "description": "Marseille",
+      "bbox": [
+        4.905,
+        43.038,
+        5.776,
+        43.554
+      ]
+    },
+    {
+      "output": "munich_germany.osh.pbf",
+      "description": "Munich",
+      "bbox": [
+        11.359,
+        48.061,
+        11.723,
+        48.248
+      ]
+    },
+    {
+      "output": "paris_france.osh.pbf",
+      "description": "Paris",
+      "bbox": [
+        1.851,
+        48.531,
+        2.911,
+        49.178
+      ]
+    },
+    {
+      "output": "rotterdam_netherlands.osh.pbf",
+      "description": "Rotterdam",
+      "bbox": [
+        3.911,
+        51.737,
+        4.784,
+        52.109
+      ]
+    },
+    {
+      "output": "southampton_england.osh.pbf",
+      "description": "Southampton",
+      "bbox": [
+        -1.479,
+        50.877,
+        -1.322,
+        50.956
+      ]
+    },
+    {
+      "output": "strasbourg_france.osh.pbf",
+      "description": "Strasbourg",
+      "bbox": [
+        7.449,
+        48.371,
+        8.078,
+        48.722
+      ]
+    },
+    {
+      "output": "turin_italy.osh.pbf",
+      "description": "Turin",
+      "bbox": [
+        7.504,
+        44.943,
+        7.887,
+        45.174
+      ]
+    },
+    {
+      "output": "zurich_switzerland.osh.pbf",
+      "description": "Zurich",
+      "bbox": [
+        8.275,
+        47.225,
+        8.8,
+        47.533
+      ]
+    },
+    {
+      "output": "louisville_kentucky.osh.pbf",
+      "description": "Louisville",
+      "bbox": [
+        -86.01,
+        38.06,
+        -85.41,
+        38.38
+      ]
+    }
+  ]
+}

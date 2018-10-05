@@ -1,0 +1,3 @@
+echo "Running from config.json"
+cd EXTRACTS
+../mason_packages/.link/bin/osmium extract --overwrite --verbose --with-history --set-bounds --config=../config2.json ../history-latest.osm.pbf
