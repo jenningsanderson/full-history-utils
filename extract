@@ -2,8 +2,8 @@
 import os,sys
 print("Extract Utility: Using osmium-tool ");
 
-HISTORY_FILE="/data/OSM-Historical-Data/history-latest.osm.pbf"
-EXTRACTS="/data/OSM-Historical-Data/EXTRACTS"
+HISTORY_FILE="history-latest.osm.pbf"
+EXTRACTS="EXTRACTS"
 DEFAULT_BBOXES = "./bboxes"
 
 os.system("mason_packages/.link/bin/osmium --version | head -n 1");
@@ -17,7 +17,7 @@ def get_bbox(path):
 def extract_bbox(path,name,found=False):
     if (found):
         bbox = get_bbox(path+"/"+name)
-        command = "mason_packages/.link/bin/osmium extract --set-bounds --with-history --overwrite --bbox={0} --verbose -o {3}/{1}.osh.pbf {2}".format(bbox,name,HISTORY_FILE,EXRACTS)
+        command = "mason_packages/.link/bin/osmium extract --set-bounds --with-history --overwrite --bbox={0} --verbose -o {3}/{1}.osh.pbf {2}".format(bbox,name,HISTORY_FILE,EXTRACTS)
         print("Running command: ",command)
         os.system(command)
         

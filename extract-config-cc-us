@@ -1,0 +1,3 @@
+o "Running from config.json"
+cd EXTRACTS2
+../mason_packages/.link/bin/osmium extract --overwrite --verbose --with-history --set-bounds --config=../config-us-cities.json ../usa-ish.osh.pbf
