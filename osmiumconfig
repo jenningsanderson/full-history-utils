@@ -1,0 +1,21 @@
+{
+    "attributes": {
+        "type":      true,
+        "id":        true,
+        "version":   true,
+        "changeset": true,
+        "timestamp": true,
+        "uid":       true,
+        "user":      true,
+        "way_nodes": false
+    },
+
+    "linear_tags":  ["highway", "barrier"],
+    
+    "area_tags":    ["aeroway", "amenity", "building!=no", "landuse", "leisure", "man_made"],
+    
+    "exclude_tags": ["created_by", "source", "source:*"],
+    
+    "include_tags": []
+
+}

@@ -1,0 +1,3 @@
+# Tags to filter for osmium tags-filter... we're not going to look up these objects down the road...
+boundary=administrative
+natural=coastline
