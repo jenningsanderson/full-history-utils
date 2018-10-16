@@ -56,16 +56,19 @@ for i in range(4**zoomLevel):
         "description" : "quadkey_"+quad,
         "bbox": ",".join( [str(e) for e in bbox] )
     })
-    
 
-for e in extracts:
+
+for e in extracts[14:]:
+    print("\n================================================\n")
     print("Going for ", e['output'])
     command = "mason_packages/.link/bin/osmium extract --set-bounds --with-history --overwrite --bbox={0} --verbose \
  -o {3}/{1} {2}".format(e['bbox'],e['output'],'history-latest.osm.pbf',QUADS)
+    print(command)
     os.system(command)
     
     print("\nNow going for the full run!\n")
     
     command = "./run.sh {0}/{1} {2}/{3}".format(QUADS,e['output'],BASEDIR, e['output'][:-8])
+    print(command)
     os.system(command)
     print()
